@@ -114,7 +114,7 @@ body {
 }
 
 .article-wrapper {
-    margin: 1px;
+    border: 1px solid white;
     padding: 98px 45px;
     min-width: 480px;
 
